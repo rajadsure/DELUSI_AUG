@@ -1,3 +1,5 @@
 Today is wednesday 
 we are learning git & Unix
 append
+Im modifying the file content
+im branching
